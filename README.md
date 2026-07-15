@@ -4,6 +4,12 @@
 
 ## 动图预览
 
+### 奔跑（新版平滑循环）
+
+![向右奔跑](previews/06-running-right.gif)
+
+![向左奔跑](previews/07-running-left.gif)
+
 ### 百万突刺
 
 ![百万突刺](previews/04-million-stabs.gif)
