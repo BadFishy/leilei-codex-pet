@@ -16,6 +16,10 @@
 
 ![等待回应](previews/02-waiting.gif)
 
+### 完成：眨眼向下指
+
+![完成：眨眼向下指](previews/05-review.gif)
+
 其余预览位于 `previews/`；完整动作表为 `preview-contact-sheet.png`。
 
 ## 安装
